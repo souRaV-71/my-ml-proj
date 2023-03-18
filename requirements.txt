@@ -2,3 +2,5 @@ numpy
 pandas
 seaborn
 -e .
+
+# this -e . is mapped to setup.py so automatically this mlproject.egg-info package will be built
