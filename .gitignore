@@ -142,3 +142,5 @@ dmypy.json
 *.vsix
 
 .vscode/settings.json
+
+/download/*
