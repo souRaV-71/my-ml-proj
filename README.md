@@ -21,7 +21,7 @@ conda update conda
 
 # Create conda env for project
 
-conda create -p venv python==3.8
+conda create -p venv python==3.8 -y
 
 # checking already existing conda envs
 
