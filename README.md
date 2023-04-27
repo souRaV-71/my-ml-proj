@@ -34,3 +34,7 @@ conda env list
 # Activate the env
 
 conda activate <the specific env>
+
+# After Activation of the env run the following cmd
+
+pip install -r requirements.txt
