@@ -1,6 +1,12 @@
-numpy
 pandas
+numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
 -e .
 
 # this -e . is mapped to setup.py so automatically this mlproject.egg-info package will be built
