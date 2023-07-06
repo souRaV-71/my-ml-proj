@@ -20,6 +20,7 @@ def predict_datapoint():
     if request.method=='GET':
         return render_template('home.html')
     else:
+        # For the POST
         data=CustomData(
             gender=request.form.get('gender'), # type: ignore
             race_ethnicity=request.form.get('ethnicity'), # type: ignore
