@@ -1,4 +1,4 @@
-# some general code that we will use across the entire project(like reading the dataset)
+# General Code for entire proj
 import os,sys
 
 import dill
