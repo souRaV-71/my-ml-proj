@@ -1,14 +1,12 @@
 pandas
+seaborn 
 numpy
-seaborn
 matplotlib
 scikit-learn
 catboost
 xgboost
-flask==2.1.3
-werkzeug==2.0
 dill
+Flask
 
 -e .
-
 # -e . is mapped to setup.py so automatically this mlproject.egg-info package will be built
